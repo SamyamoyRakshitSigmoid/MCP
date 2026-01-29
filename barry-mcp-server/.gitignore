@@ -41,5 +41,5 @@ env/
 data/*.csv
 
 # Documentation
-barry-mcp-server/CODEBASE_EXPLANATION.md
-barry-mcp-server/SETUP_GUIDE.md
+CODEBASE_EXPLANATION.md
+SETUP_GUIDE.md
