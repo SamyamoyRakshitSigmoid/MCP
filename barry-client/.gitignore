@@ -41,5 +41,5 @@ env/
 *.log
 
 # Documentation
-barry-client/CODEBASE_WALKTHROUGH.md
-barry-client/OLLAMA_WALKTHROUGH.md
+CODEBASE_WALKTHROUGH.md
+OLLAMA_WALKTHROUGH.md
