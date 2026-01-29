@@ -75,7 +75,7 @@ python -m barry_server.server
       "command": "uv",
       "args": [
         "--directory",
-        "/Users/samyamoyrakshit/Documents/MCP Servers/barry-mcp-server",
+        "MCP/barry-mcp-server",
         "run",
         "barry-server"
       ]
